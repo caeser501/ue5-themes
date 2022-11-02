@@ -1,6 +1,14 @@
 # UE5 Themes
 My collection of unreal engine 5 themes.
 
+## Usage
+Copy the json file of a theme into your engines User Settings.
+
+**Windows:**
+`%LOCALAPPDATA%\UnrealEngine\Common`
+Full Path:
+`C:\Users\USERID\AppData\Local\UnrealEngine\Common`
+
 ## [OneDark-UE5](/Themes/OneDark-UE5.json)
 A dark bluish theme based on the [One Dark Pro]() theme for VSCode.
 
